@@ -1,7 +1,7 @@
 <!-- README.raj -->
 
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
-<h3 align="center">Web Developer | Data Science Enthusiast | Real-life Project Builder</h3>
+<h3 align="center">Data Engineering | Data Science Enthusiast | Real-life Project Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Development+%7C+AI%2FML+Enthusiast;FastAPI+%7C+React+%7C+MongoDB;Loves+Building+Real-Life+Projects;Always+Learning+%26+Growing!&center=true&width=500&height=45">
@@ -11,9 +11,9 @@
 
 ### 🌟 About Me
 - 🎓 I'm a **B.Tech CSE student (2022–2026)** at Sharda University  
-- 💻 Passionate about **Web Development** and **Data Science**
+- 💻 Passionate about **Data Engineering** and **Data Science Projects**
 - 🚀 I enjoy turning ideas into real-world applications
-- 🌱 Currently learning **FastAPI, MongoDB, and 3D AI integrations**
+- 🌱 Currently learning **Cloud(AWS), FastAPI, RestAPI and MongoDB**
 - 📫 You can reach me at **rajshriwastav889@gmail.com**
 - 🌍 Open to **remote/web-based internships** and exciting collaborations
 
@@ -64,6 +64,10 @@
 #### 🚕 Uber Data analysis (Data Science Bootcamp Project)
 - Built a regression-based ML model to predict Uber pickup demand using date & time features
 - Performed data cleaning, EDA, feature engineering & evaluation (RMSE, R²)
+
+#### 🌐 Government Policy Dissemination Platform 
+- Developed a user-friendly website aimed at increasing awareness among villagers about newly launched government policies.
+- using html, css, js
   
 ### 🤝 Let's Connect
 
