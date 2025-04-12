@@ -67,7 +67,6 @@
 
 #### 🌐 Government Policy Dissemination Platform 
 - Developed a user-friendly website aimed at increasing awareness among villagers about newly launched government policies.
-- using html, css, js
   
 ### 🤝 Let's Connect
 
