@@ -4,7 +4,7 @@
 <h3 align="center">Data Engineering | Data Science Enthusiast | Real-life Project Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+AI%2FML+Enthusiast;FastAPI+%7C+React+%7C+MongoDB;Loves+Building+Real-Life+Projects;Always+Learning+%26+Growing!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+AI%2FML+Enthusiast;FastAPI+%7C+SQL+%7C+MongoDB;Loves+Building+Real-Life+Projects;Always+Learning+%26+Growing!&center=true&width=500&height=45">
 </p>
 
 ---
