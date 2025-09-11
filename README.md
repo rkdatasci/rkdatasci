@@ -15,7 +15,7 @@
 - 🚀 I enjoy turning ideas into real-world applications
 - 🌱 Currently learning **Cloud(AWS), FastAPI, RestAPI and MongoDB**
 - 📫 You can reach me at **rajshriwastav889@gmail.com**
-- 🌍 Open to **remote/web-based internships** and exciting collaborations
+- 🌍 Open to **remote/Machine learning/Data science** and exciting collaborations
 
 ---
 
