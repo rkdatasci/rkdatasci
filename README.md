@@ -45,8 +45,8 @@
 #### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![google colab](https://img.shields.io/badge/-Google-colab-FF6C37?style=for-the-badge&logo=google-colab)
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse-IDE-007ACC?style=for-the-badge&logo=Eclipse-IDE)
+![google colab](https://img.shields.io/badge/-Googlecolab-FF6C37?style=for-the-badge&logo=google-colab)
+![Eclipse IDE](https://img.shields.io/badge/-EclipseIDE-007ACC?style=for-the-badge&logo=Eclipse-IDE)
 
 ---
 
